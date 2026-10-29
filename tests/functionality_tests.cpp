@@ -1,14 +1,7 @@
-/*
- * functionality_tests.cpp
- *
- *  Created on: Sep 11, 2017
- *  Author: chinmay naik
- */
-
 #include<iostream>
 #include<cassert>
 #include<unordered_set>
-#include "../tests/HashMap.h"
+#include "../src/HashMap.h"
 using namespace std;
 
 struct MyHashCompute {
