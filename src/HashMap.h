@@ -1,9 +1,3 @@
-/*
- * HashMap.h
- *
- *  Created on: Sep 10, 2017
- *  Author: chinmay naik
- */
 #include <functional>
 #include <cstddef>
 
